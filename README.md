@@ -1,5 +1,3 @@
-# java_to_python_parser
-
 # Java to Python Code Converter
 
 This project provides a tool to convert Java code into Python code by first converting Java classes into JSON schema and then generating equivalent Python class definitions from the JSON schema. The aim is to make the conversion process easy and understandable for users of all levels, especially beginners.
@@ -8,7 +6,7 @@ This project provides a tool to convert Java code into Python code by first conv
 
 The project consists of three main scripts:
 
-1. **'main.py'**: The main script to orchestrate the conversion process.
+1. **'main.py'**: The main script implementing the conversion process.
 2. **'json_schema_to_python.py'**: Contains functions to process JSON schemas and generate Python class definitions.
 3. **'java_to_json_schema.py'**: Contains functions to parse Java code and convert it into a JSON schema.
 
