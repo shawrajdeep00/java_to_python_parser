@@ -88,11 +88,6 @@ cd java-to-python-converter
 pip install javalang
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ### Detailed Explanation of 'main.py'
 
